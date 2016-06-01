@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="zh">
+ <head>
+  <meta charset"=UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+  <title>
+  	因为不知道做什么而做的网页
+  </title>
+  <link rel="stylesheet" type="text/css" href="./css/bootstrap.css" />
+   <link href="/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+   <script src="/scripts/jquery.min.js"></script>
+   <script src="/bootstrap/js/bootstrap.min.js"></script> 
+ </head>
+ <body>
+
+<nav class="navbar navbar-inverse">
+  <div class="navbar-header" style="float:left;">
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand" href="#">一个不知为什么而做的网页</a>
+      </div>
+    
+      <form class="nabar-form navbar-right">
+        <input type="text" class="form-control" placeholder="想看什么奇怪的东西">
+      </form>
+ 	  <div class="container-fluid" style="float:right;">
+ 	  	<ul class="nav navbar-nav">
+ 	  		<li><a>导航1</a></li>
+ 	  		<li><a>导航2</a></li>
+ 	  		<li><a>导航3</a></li>
+ 	  		<li><a>导航4</a></li>
+ 	    </ul>
+ 	</div>
+    
+</nav>
+  
+   <div class="jumbotron">
+   <h1 style="text-align:center;">一个东西
+      <small>解释</small>
+   </h1>
+</div>
+<div style="text-align:center;">
+  <p>好像字少了并不是很好看,我就多打几个字</p>
+  <p>没有什么意义,你们看看就算了</p>
+  <p>从前有座山,山里有座庙</p>
+  <p>庙里有个林湛杰</p>
+  <p>balabalabala</p>
+</div>
+<div class="container marketing">
+  <div class="row">
+    <div class="col-lg-4">
+      <img class="img-circle" src="./image/1.gif" alt="Generic placeholder image" width="140" height="140">
+      <h2>日常</h2>
+      <p>还没有想好要放什么，大概是一些丑照吧</P>
+      <p><a class="btn btn-default" href="#" role="button">想看点我</a></p>
+    </div>
+    <div class="col-lg-4">
+      <img class="img-circle" src="./image/1.gif" alt="Generic placeholder image" width="140" height="140">
+      <h2>特殊</h2>
+      <p>收集一些班里的表情包</P>
+      <p><a class="btn btn-default" href="#" role="button">想看点我</a></p>
+    </div>
+    <div class="col-lg-4">
+      <img class="img-circle" src="./image/1.gif" alt="Generic placeholder image" width="140" height="140">
+      <h2>班级</h2>
+      <p>一些班里的活动和囧事</P>
+      <p><a class="btn btn-default" href="#" role="button">想看点我</a></p>
+    </div>
+  </div>
+</div>
+
+
+<div>
+<blockquote footer>
+  <p style="text-align:center;">Posted by: 我</p>
+  <p><time pubdate datetime="2016-06-22"></time></p>
+</blockquote footer>
+</div>
+ </body>
+</html>
